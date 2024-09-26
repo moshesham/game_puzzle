@@ -1,0 +1,10 @@
+pygame_puzzle_project/
+├── pygame_puzzle/
+│   ├── __init__.py
+│   ├── game.py
+│   ├── assets/
+│   │   ├── left_hand.png
+│   │   └── right_hand.png
+├── README.md
+├── requirements.txt
+└── setup.py
